@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lập Trình on </title>
+    <link>http://localhost:1313/categories/l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <description>Recent content in Lập Trình on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới thiệu về Java</title>
+      <link>http://localhost:1313/blogs/post1/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/post1/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình mạnh mẽ, độc lập nền tảng, được phát triển bởi Sun Microsystems (nay thuộc Oracle). Với triết lý &amp;ldquo;Viết một lần, chạy mọi nơi&amp;rdquo;, Java cho phép các ứng dụng chạy trên nhiều hệ điều hành khác nhau mà không cần thay đổi mã nguồn.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

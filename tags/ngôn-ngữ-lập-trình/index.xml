@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ngôn Ngữ Lập Trình on </title>
+    <link>https://www.adrianmoreno.info/tags/ng%C3%B4n-ng%E1%BB%AF-l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <description>Recent content in Ngôn Ngữ Lập Trình on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.adrianmoreno.info/tags/ng%C3%B4n-ng%E1%BB%AF-l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới thiệu về Java</title>
+      <link>https://www.adrianmoreno.info/blogs/post1/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/blogs/post1/</guid>
+      <description>&lt;h2 id=&#34;java-là-gì&#34;&gt;Java là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Java là một ngôn ngữ lập trình mạnh mẽ, độc lập nền tảng, được phát triển bởi Sun Microsystems (nay thuộc Oracle) vào năm 1995. Java được thiết kế để &amp;ldquo;viết một lần, chạy mọi nơi&amp;rdquo; (Write Once, Run Anywhere - WORA), nghĩa là các chương trình Java có thể chạy trên bất kỳ nền tảng nào hỗ trợ Java mà không cần chỉnh sửa mã nguồn.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

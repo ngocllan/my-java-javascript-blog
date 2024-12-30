@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://www.adrianmoreno.info/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.adrianmoreno.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Công Nghệ</title>
+      <link>https://www.adrianmoreno.info/tags/c%C3%B4ng-ngh%E1%BB%87/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/tags/c%C3%B4ng-ngh%E1%BB%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://www.adrianmoreno.info/tags/java/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ngôn Ngữ Lập Trình</title>
+      <link>https://www.adrianmoreno.info/tags/ng%C3%B4n-ng%E1%BB%AF-l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.adrianmoreno.info/tags/ng%C3%B4n-ng%E1%BB%AF-l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
