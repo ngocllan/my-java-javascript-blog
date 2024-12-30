@@ -1,1 +1,1 @@
-# my-java-javascript-blog
+# my-blog
